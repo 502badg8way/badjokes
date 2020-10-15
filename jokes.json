@@ -1,9 +1,16 @@
 {
 	"jokes": [
 		{
-			"Why did the programmer quit his job?": "Because he didn't get arrays.",
-			"Why do programmers always get Christmas and Halloween mixed up?": "Because DEC 25 = OCT 31",
-			"How did the programmer die in the shower?": "He read the shampoo bottle instructions: Lather. Rinse. Repeat."
+			"question":"Why did the programmer quit his job?",
+			"answer": "Because he didn't get arrays.",
+		},
+		{
+			"question":"Why do programmers always get Christmas and Halloween mixed up?"
+			"answer":"Because DEC 25 = OCT 31"
+		},
+		{
+			"question":"How did the programmer die in the shower?"
+			"answer":"He read the shampoo bottle instructions: Lather. Rinse. Repeat."
 		}
 	]
 }
